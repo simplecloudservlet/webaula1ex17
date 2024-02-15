@@ -4,7 +4,7 @@ function ola() {
     /* Exibe no console do navegador */
     console.log('Olá mundo!');
     /* Cria uma nova página HTML de resposta */
-    document.write('<!DOCTYPE html>Olá mundo!<br>');
+    document.write('<!DOCTYPE html>Olá mundo!<br>') ;
 }
 
 document.getElementById("botaoOla").addEventListener(
